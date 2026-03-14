@@ -1,4 +1,5 @@
 [general]
+import = ["alacritty/catppuccin-mocha.toml"]
 working_directory = "C:\\Users\\acer\\code"
 
 [window]
