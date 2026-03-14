@@ -1,0 +1,25 @@
+[general]
+working_directory = "C:\\Users\\acer\\code"
+
+[window]
+startup_mode = "Maximized"
+
+[font]
+size = 10.3
+
+[font.normal]
+family = "Jetbrains Mono NL"
+style = "Regular"
+
+[selection]
+save_to_clipboard = true
+
+[cursor.style]
+shape = "beam"
+blinking = "never"
+
+[terminal.shell]
+program = "C:\\Program Files\\Git\\bin\\bash.exe"
+
+[mouse]
+hide_when_typing = true
