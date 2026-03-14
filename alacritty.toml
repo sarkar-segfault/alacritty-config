@@ -24,3 +24,11 @@ program = "C:\\Program Files\\Git\\bin\\bash.exe"
 
 [mouse]
 hide_when_typing = true
+
+[[keyboard.bindings]]
+key = "PageUp"
+action = "ScrollLineUp"
+
+[[keyboard.bindings]]
+key = "PageDown"
+action = "ScrollLineDown"
