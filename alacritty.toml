@@ -1,6 +1,5 @@
 [general]
 import = ["alacritty\\catppuccin-mocha.toml"]
-working_directory = "C:\\Users\\acer\\code"
 
 [window]
 startup_mode = "Maximized"
@@ -20,7 +19,7 @@ shape = "beam"
 blinking = "never"
 
 [terminal.shell]
-program = "C:\\Program Files\\Git\\bin\\bash.exe"
+program = "C:\\Users\\acer\\vsbash.bat"
 
 [mouse]
 hide_when_typing = true
