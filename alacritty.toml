@@ -32,3 +32,18 @@ action = "ScrollLineUp"
 [[keyboard.bindings]]
 key = "PageDown"
 action = "ScrollLineDown"
+
+[[keyboard.bindings]]
+key = "H"
+mods = "Control"
+action = "None"
+
+[[keyboard.bindings]]
+key = "L"
+mods = "Control"
+action = "None"
+
+[[keyboard.bindings]]
+key = "J"
+mods = "Control"
+action = "None"
