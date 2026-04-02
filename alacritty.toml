@@ -1,6 +1,6 @@
 [general]
 import = ["alacritty\\catppuccin-mocha.toml"]
-working_directory = "C:\\Users\\acer"
+working_directory = "C:\\msys64\\home\\acer"
 
 [window]
 startup_mode = "Maximized"
@@ -20,7 +20,11 @@ shape = "beam"
 blinking = "never"
 
 [terminal.shell]
-program = "C:\\Users\\acer\\vsbash.bat"
+program = "C:\\msys64\\usr\\bin\\bash.exe"
+args = ["--login", "-i"]
+
+[env]
+MSYSTEM = "CLANG64"
 
 [mouse]
 hide_when_typing = true
