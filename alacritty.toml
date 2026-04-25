@@ -26,9 +26,6 @@ args = ["--login", "-i"]
 [env]
 MSYSTEM = "CLANG64"
 
-[mouse]
-hide_when_typing = true
-
 [[keyboard.bindings]]
 key = "PageUp"
 action = "ScrollLineUp"
