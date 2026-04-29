@@ -21,7 +21,7 @@ blinking = "never"
 
 [terminal.shell]
 program = "C:\\Windows\\System32\\cmd.exe"
-args = ["/k", "C:\\Users\\acer\\AppData\\Roaming\\alacritty\\vsbash.bat"]
+args = ["/c", "C:\\Users\\acer\\AppData\\Roaming\\alacritty\\vsbash.bat"]
 
 [[keyboard.bindings]]
 key = "PageUp"
