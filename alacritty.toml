@@ -1,6 +1,6 @@
 [general]
 import = ["alacritty\\catppuccin-mocha.toml"]
-working_directory = "C:\\msys64\\home\\acer"
+working_directory = "C:\\Users\\acer"
 
 [window]
 startup_mode = "Maximized"
@@ -20,11 +20,8 @@ shape = "beam"
 blinking = "never"
 
 [terminal.shell]
-program = "C:\\msys64\\usr\\bin\\bash.exe"
-args = ["--login", "-i"]
-
-[env]
-MSYSTEM = "CLANG64"
+program = "C:\\Windows\\System32\\cmd.exe"
+args = ["/k", "C:\\Users\\acer\\AppData\\Roaming\\alacritty\\vsbash.bat"]
 
 [[keyboard.bindings]]
 key = "PageUp"
