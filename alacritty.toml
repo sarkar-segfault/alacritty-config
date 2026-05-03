@@ -6,10 +6,10 @@ working_directory = "C:\\Users\\acer"
 startup_mode = "Maximized"
 
 [font]
-size = 10.3
+size = 11.3
 
 [font.normal]
-family = "Jetbrains Mono NL"
+family = "Iosevka Charon Mono"
 style = "Regular"
 
 [selection]
