@@ -15,10 +15,6 @@ style = "Medium"
 [selection]
 save_to_clipboard = true
 
-[cursor.style]
-shape = "beam"
-blinking = "never"
-
 [terminal.shell]
 program = "C:\\Windows\\System32\\cmd.exe"
 args = ["/c", "C:\\Users\\acer\\AppData\\Roaming\\alacritty\\vsbash.bat"]
